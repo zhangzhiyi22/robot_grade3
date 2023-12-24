@@ -1,0 +1,10 @@
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/uninstall.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/interbotix_xs_sdk_uninstall.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/xs_sdk.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/test.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/edit_cache.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/rebuild_cache.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/list_install_components.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/install.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/install/local.dir
+/home/tony/ros2_ws/build/interbotix_xs_sdk/CMakeFiles/install/strip.dir

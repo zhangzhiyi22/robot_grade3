@@ -1,0 +1,6 @@
+Invoking command in '/home/tony/ros2_ws/build/interbotix_tf_tools': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_tf_tools -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/interbotix_tf_tools
+Invoked command in '/home/tony/ros2_ws/build/interbotix_tf_tools' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_tf_tools -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/interbotix_tf_tools
+Invoking command in '/home/tony/ros2_ws/build/interbotix_tf_tools': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/interbotix_tf_tools -- -j8 -l8
+Invoked command in '/home/tony/ros2_ws/build/interbotix_tf_tools' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/interbotix_tf_tools -- -j8 -l8
+Invoking command in '/home/tony/ros2_ws/build/interbotix_tf_tools': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/interbotix_tf_tools
+Invoked command in '/home/tony/ros2_ws/build/interbotix_tf_tools' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/interbotix_tf_tools

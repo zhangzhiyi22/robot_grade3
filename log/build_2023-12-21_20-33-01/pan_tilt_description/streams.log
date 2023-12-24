@@ -1,0 +1,29 @@
+[0.033s] Invoking command in '/home/tony/ros2_ws/build/pan_tilt_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/pan_tilt_description -- -j8 -l8
+[0.092s] Invoked command in '/home/tony/ros2_ws/build/pan_tilt_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/pan_tilt_description -- -j8 -l8
+[0.130s] Invoking command in '/home/tony/ros2_ws/build/pan_tilt_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/pan_tilt_description
+[0.141s] -- Install configuration: ""
+[0.141s] -- Execute custom install script
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/launch/view_model.launch.py
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/rviz/view_model.rviz
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/kinect_dk.xacro
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/mesh/base.stl
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/mesh/pitch.stl
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/mesh/yaw.stl
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/pan_tilt.urdf.xacro
+[0.141s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/pan_tilt_st.urdf.xacro
+[0.142s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/ament_index/resource_index/package_run_dependencies/pan_tilt_description
+[0.142s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/ament_index/resource_index/parent_prefix_path/pan_tilt_description
+[0.142s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/ament_prefix_path.sh
+[0.142s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/ament_prefix_path.dsv
+[0.143s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/path.sh
+[0.143s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/path.dsv
+[0.143s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.bash
+[0.143s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.sh
+[0.143s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.zsh
+[0.143s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.dsv
+[0.143s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/package.dsv
+[0.154s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/ament_index/resource_index/packages/pan_tilt_description
+[0.154s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/cmake/pan_tilt_descriptionConfig.cmake
+[0.155s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/cmake/pan_tilt_descriptionConfig-version.cmake
+[0.155s] -- Up-to-date symlink: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/package.xml
+[0.186s] Invoked command in '/home/tony/ros2_ws/build/pan_tilt_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/pan_tilt_description

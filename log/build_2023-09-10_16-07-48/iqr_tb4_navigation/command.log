@@ -1,0 +1,6 @@
+Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_navigation
+Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_navigation -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_navigation
+Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_navigation -- -j8 -l8
+Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_navigation -- -j8 -l8
+Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_navigation
+Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_navigation

@@ -1,0 +1,84 @@
+[0.020s] Invoking command in '/home/tony/ros2_ws/build/interbotix_xs_sdk': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/interbotix_xs_sdk
+[0.087s] -- The C compiler identification is GNU 11.4.0
+[0.152s] -- The CXX compiler identification is GNU 11.4.0
+[0.161s] -- Detecting C compiler ABI info
+[0.249s] -- Detecting C compiler ABI info - done
+[0.260s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.260s] -- Detecting C compile features
+[0.262s] -- Detecting C compile features - done
+[0.264s] -- Detecting CXX compiler ABI info
+[0.367s] -- Detecting CXX compiler ABI info - done
+[0.372s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.373s] -- Detecting CXX compile features
+[0.373s] -- Detecting CXX compile features - done
+[0.378s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.626s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.719s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.768s] -- Found ament_index_cpp: 1.4.0 (/opt/ros/humble/share/ament_index_cpp/cmake)
+[0.771s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[0.833s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.842s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.850s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.863s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.881s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.971s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.974s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.096s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.151s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.213s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.226s] -- Looking for pthread.h
+[1.324s] -- Looking for pthread.h - found
+[1.325s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.410s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.412s] -- Found Threads: TRUE  
+[1.675s] -- Found rclpy: 3.3.9 (/opt/ros/humble/share/rclpy/cmake)
+[1.677s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.886s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[1.944s] -- Found interbotix_xs_msgs: 0.0.0 (/home/tony/ros2_ws/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake)
+[2.254s] -- Found interbotix_xs_driver: 0.3.3 (/home/tony/ros2_ws/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake)
+[2.262s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.349s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.351s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.351s] -- Configured cppcheck include dirs: /home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk/include
+[2.352s] -- Configured cppcheck exclude dirs and/or files: 
+[2.353s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.354s] -- Configured cpplint exclude dirs and/or files: 
+[2.355s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.356s] -- Added test 'lint_cmake' to check CMake code style
+[2.357s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.358s] -- Added test 'uncrustify' to check C / C++ code style
+[2.359s] -- Configured uncrustify additional arguments: 
+[2.360s] -- Added test 'xmllint' to check XML markup files
+[2.362s] -- Configuring done
+[2.379s] -- Generating done
+[2.380s] -- Build files have been written to: /home/tony/ros2_ws/build/interbotix_xs_sdk
+[2.392s] Invoked command in '/home/tony/ros2_ws/build/interbotix_xs_sdk' returned '0': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_sdk -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/interbotix_xs_sdk
+[2.393s] Invoking command in '/home/tony/ros2_ws/build/interbotix_xs_sdk': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/tony/ros2_ws/build/interbotix_xs_sdk -- -j8 -l8
+[2.444s] [ 33%] [32mBuilding CXX object CMakeFiles/xs_sdk.dir/src/xs_sdk.cpp.o[0m
+[2.451s] [ 66%] [32mBuilding CXX object CMakeFiles/xs_sdk.dir/src/xs_sdk_obj.cpp.o[0m
+[21.950s] [100%] [32m[1mLinking CXX executable xs_sdk[0m
+[23.152s] [100%] Built target xs_sdk
+[23.161s] Invoked command in '/home/tony/ros2_ws/build/interbotix_xs_sdk' returned '0': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/tony/ros2_ws/build/interbotix_xs_sdk -- -j8 -l8
+[23.180s] Invoking command in '/home/tony/ros2_ws/build/interbotix_xs_sdk': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/tony/ros2_ws/build/interbotix_xs_sdk
+[23.185s] -- Install configuration: ""
+[23.186s] -- Execute custom install script
+[23.186s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/lib/interbotix_xs_sdk/xs_sdk
+[23.193s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/lib/interbotix_xs_sdk/xs_sdk_sim.py
+[23.201s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk//config/mode_configs_template.yaml
+[23.208s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk//config/motor_configs_template.yaml
+[23.215s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_sdk
+[23.222s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_sdk
+[23.230s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/ament_prefix_path.sh
+[23.237s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/ament_prefix_path.dsv
+[23.243s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/path.sh
+[23.250s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/environment/path.dsv
+[23.257s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.bash
+[23.266s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.sh
+[23.273s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.zsh
+[23.279s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/local_setup.dsv
+[23.286s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/package.dsv
+[23.293s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/ament_index/resource_index/packages/interbotix_xs_sdk
+[23.300s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig.cmake
+[23.308s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/cmake/interbotix_xs_sdkConfig-version.cmake
+[23.314s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_xs_sdk/share/interbotix_xs_sdk/package.xml
+[23.324s] Invoked command in '/home/tony/ros2_ws/build/interbotix_xs_sdk' returned '0': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:/opt/ros/humble LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/tony/ros2_ws/build/interbotix_xs_sdk

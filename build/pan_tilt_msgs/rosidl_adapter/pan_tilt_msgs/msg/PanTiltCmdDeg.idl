@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from pan_tilt_msgs/msg/PanTiltCmdDeg.msg
+// generated code does not contain a copyright notice
+
+
+module pan_tilt_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "pan tilt control msg" "\n"
+      "pan tilt yaw angle :deg")
+    struct PanTiltCmdDeg {
+      float yaw;
+
+      @verbatim (language="comment", text=
+        "pan tilt pitch angle :deg")
+      float pitch;
+
+      @verbatim (language="comment", text=
+        "pan tilt speed :deg/s")
+      int16 speed;
+    };
+  };
+};

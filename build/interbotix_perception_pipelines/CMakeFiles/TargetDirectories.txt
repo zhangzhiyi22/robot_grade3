@@ -1,0 +1,10 @@
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/uninstall.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/interbotix_perception_pipelines_uninstall.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/pointcloud_pipeline.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/test.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/edit_cache.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/rebuild_cache.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/list_install_components.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/install.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/install/local.dir
+/home/tony/ros2_ws/build/interbotix_perception_pipelines/CMakeFiles/install/strip.dir

@@ -1,0 +1,72 @@
+[0.051s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_description
+[0.464s] -- The C compiler identification is GNU 11.4.0
+[0.464s] -- The CXX compiler identification is GNU 11.4.0
+[0.464s] -- Detecting C compiler ABI info
+[0.739s] -- Detecting C compiler ABI info - done
+[0.755s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.759s] -- Detecting C compile features
+[0.760s] -- Detecting C compile features - done
+[0.771s] -- Detecting CXX compiler ABI info
+[1.035s] -- Detecting CXX compiler ABI info - done
+[1.040s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.041s] -- Detecting CXX compile features
+[1.043s] -- Detecting CXX compile features - done
+[1.063s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.592s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.876s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.979s] -- Found robot_state_publisher: 3.0.2 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[2.104s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.134s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.179s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.227s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.298s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.115s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[3.116s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[3.117s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[3.435s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.438s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.045s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.138s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.324s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.353s] -- Looking for pthread.h
+[4.713s] -- Looking for pthread.h - found
+[4.713s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.166s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.168s] -- Found Threads: TRUE  
+[6.593s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[6.869s] -- Added test 'flake8' to check Python code syntax and style conventions
+[6.870s] -- Added test 'lint_cmake' to check CMake code style
+[6.871s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[6.873s] -- Added test 'xmllint' to check XML markup files
+[6.878s] -- Configuring done
+[6.898s] -- Generating done
+[6.905s] -- Build files have been written to: /home/tony/ros2_ws/build/iqr_tb4_description
+[6.923s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_description
+[6.924s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_description -- -j8 -l8
+[7.048s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_description -- -j8 -l8
+[7.369s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_description
+[9.742s] -- Install configuration: ""
+[9.742s] -- Execute custom install script
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/launch/display.launch.py
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/meshes/iqr_tb4_pro.stl
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/create3.urdf.xacro
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/output.urdf
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/realsense_d435.urdf.xacro
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/tb_full.urdf.xacro
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/rviz/rviz_basic_settings.rviz
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/package_run_dependencies/iqr_tb4_description
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/parent_prefix_path/iqr_tb4_description
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/ament_prefix_path.sh
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/ament_prefix_path.dsv
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/path.sh
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/path.dsv
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.bash
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.sh
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.zsh
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.dsv
+[9.743s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/package.dsv
+[9.744s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/packages/iqr_tb4_description
+[9.744s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/cmake/iqr_tb4_descriptionConfig.cmake
+[9.744s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/cmake/iqr_tb4_descriptionConfig-version.cmake
+[9.744s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/package.xml
+[9.773s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_description

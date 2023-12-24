@@ -1,0 +1,6 @@
+Invoking command in '/home/tony/ros2_ws/build/pan_tilt_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/pan_tilt_msgs
+Invoked command in '/home/tony/ros2_ws/build/pan_tilt_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/pan_tilt_msgs
+Invoking command in '/home/tony/ros2_ws/build/pan_tilt_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/pan_tilt_msgs -- -j8 -l8
+Invoked command in '/home/tony/ros2_ws/build/pan_tilt_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/pan_tilt_msgs -- -j8 -l8
+Invoking command in '/home/tony/ros2_ws/build/pan_tilt_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/pan_tilt_msgs
+Invoked command in '/home/tony/ros2_ws/build/pan_tilt_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/pan_tilt_msgs

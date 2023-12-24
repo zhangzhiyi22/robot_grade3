@@ -1,0 +1,12 @@
+/**:
+  ros__parameters:
+    device_name: /dev/external_imu
+    baud_rate: 115200
+    flow_control: none
+    parity: none
+    stop_bits: "1"
+
+/modbus_rtu_driver_node:
+  ros__parameters:
+    id: 0x50
+    frame_link: imu_link

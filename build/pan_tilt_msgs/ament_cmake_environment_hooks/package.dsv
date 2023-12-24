@@ -1,0 +1,4 @@
+source;share/pan_tilt_msgs/local_setup.bash
+source;share/pan_tilt_msgs/local_setup.dsv
+source;share/pan_tilt_msgs/local_setup.sh
+source;share/pan_tilt_msgs/local_setup.zsh

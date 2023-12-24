@@ -1,0 +1,1 @@
+/home/tony/ros2_ws/build/interbotix_ros_xsarms/ament_cmake_environment_hooks/local_setup.sh

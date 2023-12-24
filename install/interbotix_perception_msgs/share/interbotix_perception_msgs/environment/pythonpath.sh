@@ -1,0 +1,1 @@
+/home/tony/ros2_ws/build/interbotix_perception_msgs/ament_cmake_environment_hooks/pythonpath.sh

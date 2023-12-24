@@ -1,0 +1,30 @@
+[2.041s] Invoking command in '/home/tony/ros2_ws/build/witmotion_ros_driver': PYTHONPATH=/home/tony/ros2_ws/build/witmotion_ros_driver/prefix_override:/home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tony/ros2_ws/build/witmotion_ros_driver/build --no-deps install_data
+[2.634s] running develop
+[2.947s] running egg_info
+[2.947s] creating witmotion_ros_driver.egg-info
+[2.947s] writing witmotion_ros_driver.egg-info/PKG-INFO
+[2.948s] writing dependency_links to witmotion_ros_driver.egg-info/dependency_links.txt
+[2.948s] writing entry points to witmotion_ros_driver.egg-info/entry_points.txt
+[2.948s] writing requirements to witmotion_ros_driver.egg-info/requires.txt
+[2.948s] writing top-level names to witmotion_ros_driver.egg-info/top_level.txt
+[2.948s] writing manifest file 'witmotion_ros_driver.egg-info/SOURCES.txt'
+[2.951s] reading manifest file 'witmotion_ros_driver.egg-info/SOURCES.txt'
+[2.955s] writing manifest file 'witmotion_ros_driver.egg-info/SOURCES.txt'
+[2.956s] running build_ext
+[2.956s] Creating /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion-ros-driver.egg-link (link to .)
+[2.958s] Installing modbus_rtu_driver script to /home/tony/ros2_ws/install/witmotion_ros_driver/lib/witmotion_ros_driver
+[2.958s] Installing modbus_rtu_driver_2 script to /home/tony/ros2_ws/install/witmotion_ros_driver/lib/witmotion_ros_driver
+[2.959s] 
+[2.959s] Installed /home/tony/ros2_ws/build/witmotion_ros_driver
+[2.959s] running install_data
+[2.959s] creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index
+[2.959s] creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index/resource_index
+[2.959s] creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index/resource_index/packages
+[2.960s] copying resource/witmotion_ros_driver -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index/resource_index/packages
+[2.960s] copying package.xml -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver
+[2.960s] creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/config
+[2.960s] copying config/params.yaml -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/config
+[2.960s] creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/launch
+[2.960s] copying launch/modbus_rtu_driver.launch.py -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/launch
+[2.960s] copying launch/serial_bridge.launch.py -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/launch
+[3.034s] Invoked command in '/home/tony/ros2_ws/build/witmotion_ros_driver' returned '0': PYTHONPATH=/home/tony/ros2_ws/build/witmotion_ros_driver/prefix_override:/home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tony/ros2_ws/build/witmotion_ros_driver/build --no-deps install_data

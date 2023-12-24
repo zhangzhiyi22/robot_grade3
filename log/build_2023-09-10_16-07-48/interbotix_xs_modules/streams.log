@@ -1,0 +1,23 @@
+[0.635s] Invoking command in '/home/tony/ros2_ws/build/interbotix_xs_modules': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_sdk:/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/interbotix_common_modules:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_sdk:/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/build/interbotix_xs_modules/prefix_override:/home/tony/ros2_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/tony/ros2_ws/build/interbotix_common_modules:/home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tony/ros2_ws/build/interbotix_xs_modules/build --no-deps install_data
+[0.869s] running develop
+[1.013s] running egg_info
+[1.013s] creating interbotix_xs_modules.egg-info
+[1.013s] writing interbotix_xs_modules.egg-info/PKG-INFO
+[1.014s] writing dependency_links to interbotix_xs_modules.egg-info/dependency_links.txt
+[1.014s] writing entry points to interbotix_xs_modules.egg-info/entry_points.txt
+[1.014s] writing requirements to interbotix_xs_modules.egg-info/requires.txt
+[1.015s] writing top-level names to interbotix_xs_modules.egg-info/top_level.txt
+[1.015s] writing manifest file 'interbotix_xs_modules.egg-info/SOURCES.txt'
+[1.017s] reading manifest file 'interbotix_xs_modules.egg-info/SOURCES.txt'
+[1.018s] writing manifest file 'interbotix_xs_modules.egg-info/SOURCES.txt'
+[1.020s] running build_ext
+[1.020s] Creating /home/tony/ros2_ws/install/interbotix_xs_modules/lib/python3.10/site-packages/interbotix-xs-modules.egg-link (link to .)
+[1.021s] 
+[1.021s] Installed /home/tony/ros2_ws/build/interbotix_xs_modules
+[1.021s] running install_data
+[1.021s] creating /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index
+[1.021s] creating /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index/resource_index
+[1.022s] creating /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index/resource_index/packages
+[1.022s] copying resource/interbotix_xs_modules -> /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index/resource_index/packages
+[1.022s] copying package.xml -> /home/tony/ros2_ws/install/interbotix_xs_modules/share/interbotix_xs_modules
+[1.062s] Invoked command in '/home/tony/ros2_ws/build/interbotix_xs_modules' returned '0': AMENT_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_sdk:/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/interbotix_common_modules:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tony/ros2_ws/install/interbotix_xs_sdk:/home/tony/ros2_ws/install/interbotix_xs_driver:/home/tony/ros2_ws/install/interbotix_xs_msgs:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox LD_LIBRARY_PATH=/home/tony/ros2_ws/install/interbotix_xs_driver/lib:/home/tony/ros2_ws/install/interbotix_xs_msgs/lib:/home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tony/ros2_ws/build/interbotix_xs_modules/prefix_override:/home/tony/ros2_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/tony/ros2_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/tony/ros2_ws/build/interbotix_common_modules:/home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/tony/ros2_ws/build/interbotix_xs_modules/build --no-deps install_data

@@ -1,0 +1,29 @@
+[0.038s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_navigation -- -j8 -l8
+[0.110s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_navigation -- -j8 -l8
+[0.150s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_navigation
+[0.159s] -- Install configuration: ""
+[0.164s] -- Execute custom install script
+[0.164s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/config/localization.yaml
+[0.164s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/config/nav2.yaml
+[0.164s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/config/slam.yaml
+[0.164s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/launch/localization.launch.py
+[0.164s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/launch/nav2.launch.py
+[0.164s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/launch/slam.launch.py
+[0.164s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/maps/test.pgm
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/maps/test.yaml
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/ament_index/resource_index/package_run_dependencies/iqr_tb4_navigation
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/ament_index/resource_index/parent_prefix_path/iqr_tb4_navigation
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/ament_prefix_path.sh
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/ament_prefix_path.dsv
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/path.sh
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/path.dsv
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.bash
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.sh
+[0.165s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.zsh
+[0.167s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.dsv
+[0.168s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/package.dsv
+[0.190s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/ament_index/resource_index/packages/iqr_tb4_navigation
+[0.190s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/cmake/iqr_tb4_navigationConfig.cmake
+[0.190s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/cmake/iqr_tb4_navigationConfig-version.cmake
+[0.191s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/package.xml
+[0.201s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_navigation

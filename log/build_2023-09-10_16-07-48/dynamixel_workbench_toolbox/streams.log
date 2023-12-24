@@ -1,0 +1,82 @@
+[0.035s] Invoking command in '/home/tony/ros2_ws/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/dynamixel_workbench_toolbox
+[0.280s] -- The C compiler identification is GNU 11.4.0
+[0.280s] -- The CXX compiler identification is GNU 11.4.0
+[0.280s] -- Detecting C compiler ABI info
+[0.281s] -- Detecting C compiler ABI info - done
+[0.281s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.281s] -- Detecting C compile features
+[0.281s] -- Detecting C compile features - done
+[0.281s] -- Detecting CXX compiler ABI info
+[0.300s] -- Detecting CXX compiler ABI info - done
+[0.310s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.311s] -- Detecting CXX compile features
+[0.313s] -- Detecting CXX compile features - done
+[0.316s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.566s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.657s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.748s] -- Found dynamixel_sdk: 3.7.60 (/opt/ros/humble/share/dynamixel_sdk/cmake)
+[0.756s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[0.822s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.829s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.839s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.859s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.885s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.055s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.060s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.212s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.249s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.310s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.333s] -- Looking for pthread.h
+[1.472s] -- Looking for pthread.h - found
+[1.472s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.556s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.557s] -- Found Threads: TRUE  
+[1.926s] -- Configuring done
+[1.947s] -- Generating done
+[1.949s] -- Build files have been written to: /home/tony/ros2_ws/build/dynamixel_workbench_toolbox
+[1.975s] Invoked command in '/home/tony/ros2_ws/build/dynamixel_workbench_toolbox' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/dynamixel_workbench_toolbox
+[1.976s] Invoking command in '/home/tony/ros2_ws/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/dynamixel_workbench_toolbox -- -j8 -l8
+[2.080s] [ 20%] [32mBuilding CXX object CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_item.cpp.o[0m
+[2.090s] [ 40%] [32mBuilding CXX object CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp.o[0m
+[2.115s] [ 60%] [32mBuilding CXX object CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_tool.cpp.o[0m
+[2.131s] [ 80%] [32mBuilding CXX object CMakeFiles/dynamixel_workbench_toolbox.dir/src/dynamixel_workbench_toolbox/dynamixel_workbench.cpp.o[0m
+[2.557s] [01m[K/home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp:[m[K In member function ‘[01m[Kbool DynamixelDriver::readRegister(uint8_t, uint16_t, uint16_t, uint32_t*, const char**)[m[K’:
+[2.557s] [01m[K/home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp:776:11:[m[K [01;35m[Kwarning: [m[KISO C++ forbids variable length array ‘[01m[Kdata_read[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wvla-Wvla]8;;[m[K]
+[2.557s]   776 |   uint8_t [01;35m[Kdata_read[m[K[length];
+[2.557s]       |           [01;35m[K^~~~~~~~~[m[K
+[2.559s] [01m[K/home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp:[m[K In member function ‘[01m[Kbool DynamixelDriver::syncWrite(uint8_t, uint8_t*, uint8_t, int32_t*, uint8_t, const char**)[m[K’:
+[2.559s] [01m[K/home/tony/ros2_ws/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox/src/dynamixel_workbench_toolbox/dynamixel_driver.cpp:1012:11:[m[K [01;35m[Kwarning: [m[KISO C++ forbids variable length array ‘[01m[Kmulti_parameter[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wvla-Wvla]8;;[m[K]
+[2.560s]  1012 |   uint8_t [01;35m[Kmulti_parameter[m[K[4*data_num_for_each_id];
+[2.560s]       |           [01;35m[K^~~~~~~~~~~~~~~[m[K
+[2.777s] [100%] [32m[1mLinking CXX shared library libdynamixel_workbench_toolbox.so[0m
+[2.965s] [100%] Built target dynamixel_workbench_toolbox
+[3.035s] Invoked command in '/home/tony/ros2_ws/build/dynamixel_workbench_toolbox' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/dynamixel_workbench_toolbox -- -j8 -l8
+[3.300s] Invoking command in '/home/tony/ros2_ws/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/dynamixel_workbench_toolbox
+[4.085s] -- Install configuration: ""
+[4.085s] -- Execute custom install script
+[4.085s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/lib/libdynamixel_workbench_toolbox.so
+[4.085s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_driver.h
+[4.085s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_item.h
+[4.085s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_tool.h
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/include//dynamixel_workbench_toolbox/dynamixel_workbench.h
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.sh
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/library_path.dsv
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/package_run_dependencies/dynamixel_workbench_toolbox
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/parent_prefix_path/dynamixel_workbench_toolbox
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.sh
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/ament_prefix_path.dsv
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.sh
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/environment/path.dsv
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.bash
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.sh
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.zsh
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/local_setup.dsv
+[4.086s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.dsv
+[4.087s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/ament_index/resource_index/packages/dynamixel_workbench_toolbox
+[4.087s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.087s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.087s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/ament_cmake_export_libraries-extras.cmake
+[4.087s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig.cmake
+[4.087s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/cmake/dynamixel_workbench_toolboxConfig-version.cmake
+[4.087s] -- Symlinking: /home/tony/ros2_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.xml
+[4.123s] Invoked command in '/home/tony/ros2_ws/build/dynamixel_workbench_toolbox' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/dynamixel_workbench_toolbox

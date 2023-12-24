@@ -1,0 +1,3 @@
+/home/tony/ros2_ws/install/interbotix_xs_driver/lib/libinterbotix_xs_driver.so
+/home/tony/ros2_ws/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/export_interbotix_xs_driverExport.cmake
+/home/tony/ros2_ws/install/interbotix_xs_driver/share/interbotix_xs_driver/cmake/export_interbotix_xs_driverExport-noconfig.cmake

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pan_tilt_driver</name>
+  <version>1.0.0</version>
+  <description>The pan_tilt_driver package</description>
+
+  <!-- Author -->
+  <maintainer email="lei.yan@iquotient-robotics.com">QuartzYan</maintainer>
+
+  <!-- License -->
+  <license>MIT</license>
+  
+  <!-- depend -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>pan_tilt_msgs</build_depend>
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  
+  <exec_depend>pan_tilt_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

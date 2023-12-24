@@ -1,0 +1,25 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_joint_state__type_support.cpp.o"
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_joint_state__type_support.cpp.o.d"
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_deg__type_support.cpp.o"
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_deg__type_support.cpp.o.d"
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_rad__type_support.cpp.o"
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_rad__type_support.cpp.o.d"
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_status__type_support.cpp.o"
+  "CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_status__type_support.cpp.o.d"
+  "libpan_tilt_msgs__rosidl_typesupport_introspection_cpp.pdb"
+  "libpan_tilt_msgs__rosidl_typesupport_introspection_cpp.so"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_joint_state__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_joint_state__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_deg__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_deg__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_rad__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_cmd_rad__type_support.cpp"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_status__rosidl_typesupport_introspection_cpp.hpp"
+  "rosidl_typesupport_introspection_cpp/pan_tilt_msgs/msg/detail/pan_tilt_status__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/pan_tilt_msgs__rosidl_typesupport_introspection_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

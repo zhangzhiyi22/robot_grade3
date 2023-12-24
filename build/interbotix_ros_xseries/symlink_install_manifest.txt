@@ -1,0 +1,15 @@
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/ament_index/resource_index/package_run_dependencies/interbotix_ros_xseries
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/ament_index/resource_index/parent_prefix_path/interbotix_ros_xseries
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/environment/ament_prefix_path.sh
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/environment/ament_prefix_path.dsv
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/environment/path.sh
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/environment/path.dsv
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/local_setup.bash
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/local_setup.sh
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/local_setup.zsh
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/local_setup.dsv
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/package.dsv
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/ament_index/resource_index/packages/interbotix_ros_xseries
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/cmake/interbotix_ros_xseriesConfig.cmake
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/cmake/interbotix_ros_xseriesConfig-version.cmake
+/home/tony/ros2_ws/install/interbotix_ros_xseries/share/interbotix_ros_xseries/package.xml

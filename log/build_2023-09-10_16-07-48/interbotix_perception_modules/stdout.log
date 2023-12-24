@@ -1,0 +1,35 @@
+running develop
+running egg_info
+creating interbotix_perception_modules.egg-info
+writing interbotix_perception_modules.egg-info/PKG-INFO
+writing dependency_links to interbotix_perception_modules.egg-info/dependency_links.txt
+writing entry points to interbotix_perception_modules.egg-info/entry_points.txt
+writing requirements to interbotix_perception_modules.egg-info/requires.txt
+writing top-level names to interbotix_perception_modules.egg-info/top_level.txt
+writing manifest file 'interbotix_perception_modules.egg-info/SOURCES.txt'
+reading manifest file 'interbotix_perception_modules.egg-info/SOURCES.txt'
+writing manifest file 'interbotix_perception_modules.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/tony/ros2_ws/install/interbotix_perception_modules/lib/python3.10/site-packages/interbotix-perception-modules.egg-link (link to .)
+Installing armtag_tuner_gui script to /home/tony/ros2_ws/install/interbotix_perception_modules/lib/interbotix_perception_modules
+Installing picture_snapper script to /home/tony/ros2_ws/install/interbotix_perception_modules/lib/interbotix_perception_modules
+Installing pointcloud_tuner_gui script to /home/tony/ros2_ws/install/interbotix_perception_modules/lib/interbotix_perception_modules
+
+Installed /home/tony/ros2_ws/build/interbotix_perception_modules
+running install_data
+creating /home/tony/ros2_ws/install/interbotix_perception_modules/share/ament_index
+creating /home/tony/ros2_ws/install/interbotix_perception_modules/share/ament_index/resource_index
+creating /home/tony/ros2_ws/install/interbotix_perception_modules/share/ament_index/resource_index/packages
+copying resource/interbotix_perception_modules -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/ament_index/resource_index/packages
+copying package.xml -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules
+creating /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/launch
+copying launch/apriltag.launch.py -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/launch
+copying launch/pc_filter.launch.py -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/launch
+copying launch/picture_snapper.launch.py -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/launch
+copying launch/armtag.launch.py -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/launch
+creating /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/config
+copying config/filter_params.yaml -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/config
+copying config/tags.yaml -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/config
+creating /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/ui
+copying src/ui/armtagtunergui.ui -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/ui
+copying src/ui/pointcloudtunergui.ui -> /home/tony/ros2_ws/install/interbotix_perception_modules/share/interbotix_perception_modules/ui

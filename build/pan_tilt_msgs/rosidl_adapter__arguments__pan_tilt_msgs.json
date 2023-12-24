@@ -1,0 +1,9 @@
+{
+  "package_name": "pan_tilt_msgs",
+  "non_idl_tuples": [
+    "/home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_msgs:msg/PanTiltCmdDeg.msg",
+    "/home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_msgs:msg/PanTiltCmdRad.msg",
+    "/home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_msgs:msg/PanTiltStatus.msg",
+    "/home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_msgs:msg/PanJointState.msg"
+  ]
+}

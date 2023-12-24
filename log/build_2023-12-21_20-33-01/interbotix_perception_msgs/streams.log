@@ -1,0 +1,185 @@
+[0.307s] Invoking command in '/home/tony/ros2_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/interbotix_perception_msgs -- -j8 -l8
+[0.382s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_generator_c[0m
+[0.416s] [  1%] Built target interbotix_perception_msgs__cpp
+[0.423s] [ 12%] Built target interbotix_perception_msgs__rosidl_generator_c
+[0.427s] [ 12%] Built target ament_cmake_python_symlink_interbotix_perception_msgs
+[0.448s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.466s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_cpp[0m
+[0.482s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.483s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_introspection_c[0m
+[0.501s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.507s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_c[0m
+[0.513s] [ 23%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[0.542s] [ 45%] Built target interbotix_perception_msgs__rosidl_typesupport_cpp
+[0.542s] [ 45%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c
+[0.552s] [ 56%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp
+[0.556s] [ 67%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c
+[0.575s] [ 78%] Built target interbotix_perception_msgs__rosidl_typesupport_c
+[0.635s] [ 78%] Built target interbotix_perception_msgs
+[0.667s] [ 80%] Built target interbotix_perception_msgs__py
+[0.702s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_generator_py[0m
+[0.762s] [ 89%] Built target interbotix_perception_msgs__rosidl_generator_py
+[0.780s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.807s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_c__pyext[0m
+[0.821s] [ 92%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.843s] [35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.875s] [ 96%] Built target interbotix_perception_msgs__rosidl_typesupport_c__pyext
+[0.877s] [100%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c__pyext
+[0.947s] running egg_info
+[0.948s] writing interbotix_perception_msgs.egg-info/PKG-INFO
+[0.948s] writing dependency_links to interbotix_perception_msgs.egg-info/dependency_links.txt
+[0.948s] writing top-level names to interbotix_perception_msgs.egg-info/top_level.txt
+[0.952s] reading manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[0.953s] writing manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[0.992s] [100%] Built target ament_cmake_python_build_interbotix_perception_msgs_egg
+[1.006s] Invoked command in '/home/tony/ros2_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/interbotix_perception_msgs -- -j8 -l8
+[1.206s] Invoking command in '/home/tony/ros2_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/interbotix_perception_msgs
+[1.217s] -- Install configuration: ""
+[1.223s] -- Execute custom install script
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/rosidl_interfaces/interbotix_perception_msgs
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/cluster_info.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__functions.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__struct.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/cluster_info_array.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__functions.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__struct.h
+[1.224s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__functions.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__struct.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__functions.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__struct.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/filter_params.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/snap_picture.h
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/library_path.sh
+[1.225s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/library_path.dsv
+[1.226s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_fastrtps_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_fastrtps_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_fastrtps_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_fastrtps_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_introspection_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_introspection_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_introspection_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_introspection_c.h
+[1.234s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/cluster_info.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__builder.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__struct.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__traits.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/cluster_info_array.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__builder.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__struct.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__traits.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__builder.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__struct.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__traits.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__builder.hpp
+[1.235s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__struct.hpp
+[1.236s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__traits.hpp
+[1.236s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/filter_params.hpp
+[1.237s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/snap_picture.hpp
+[1.239s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_fastrtps_cpp.hpp
+[1.239s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.239s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_fastrtps_cpp.hpp
+[1.239s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_fastrtps_cpp.hpp
+[1.239s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_fastrtps_cpp.hpp
+[1.240s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_introspection_cpp.hpp
+[1.240s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_introspection_cpp.hpp
+[1.240s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_introspection_cpp.hpp
+[1.240s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_introspection_cpp.hpp
+[1.240s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/pythonpath.sh
+[1.240s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/pythonpath.dsv
+[1.240s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[1.246s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.246s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.246s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[1.246s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/__init__.py
+[1.246s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_c.c
+[1.246s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/libinterbotix_perception_msgs__rosidl_generator_py.so
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/__init__.py
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/_cluster_info.py
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/_cluster_info_s.c
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/__init__.py
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_cluster_info_array.py
+[1.247s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_cluster_info_array_s.c
+[1.248s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_filter_params.py
+[1.248s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_filter_params_s.c
+[1.248s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_snap_picture.py
+[1.248s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_snap_picture_s.c
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/msg/ClusterInfo.idl
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray.idl
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams.idl
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture.idl
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/msg/ClusterInfo.msg
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray.srv
+[1.249s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray_Request.msg
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray_Response.msg
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams.srv
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams_Request.msg
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams_Response.msg
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture.srv
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture_Request.msg
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture_Response.msg
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/package_run_dependencies/interbotix_perception_msgs
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/parent_prefix_path/interbotix_perception_msgs
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/ament_prefix_path.sh
+[1.250s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/ament_prefix_path.dsv
+[1.251s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/path.sh
+[1.251s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/path.dsv
+[1.251s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.bash
+[1.251s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.sh
+[1.251s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.zsh
+[1.251s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.dsv
+[1.251s] -- Symlinking: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/package.dsv
+[1.252s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/packages/interbotix_perception_msgs
+[1.254s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake-extras.cmake
+[1.258s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.258s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.258s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.258s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.258s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.259s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.260s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgsConfig.cmake
+[1.260s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgsConfig-version.cmake
+[1.260s] -- Up-to-date symlink: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/package.xml
+[1.260s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_c.so
+[1.260s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_c.so
+[1.260s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_c.so
+[1.260s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_c.so
+[1.260s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.263s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_cpp.so
+[1.264s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_cpp.so
+[1.307s] Listing '/home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs'...
+[1.307s] Listing '/home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg'...
+[1.307s] Listing '/home/tony/ros2_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv'...
+[1.314s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_py.so
+[1.314s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cExport.cmake
+[1.314s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.315s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.315s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.315s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.315s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.315s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cExport.cmake
+[1.315s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.316s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cppExport.cmake
+[1.316s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.316s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.316s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.316s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.317s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cppExport.cmake
+[1.317s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.317s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_pyExport.cmake
+[1.317s] -- Up-to-date: /home/tony/ros2_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.356s] Invoked command in '/home/tony/ros2_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/interbotix_perception_msgs

@@ -1,0 +1,55 @@
+[0.062s] Invoking command in '/home/tony/ros2_ws/build/pan_tilt_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/pan_tilt_description
+[0.308s] -- The C compiler identification is GNU 11.4.0
+[0.569s] -- The CXX compiler identification is GNU 11.4.0
+[0.577s] -- Detecting C compiler ABI info
+[0.928s] -- Detecting C compiler ABI info - done
+[0.939s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.939s] -- Detecting C compile features
+[0.944s] -- Detecting C compile features - done
+[0.950s] -- Detecting CXX compiler ABI info
+[1.282s] -- Detecting CXX compiler ABI info - done
+[1.293s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.293s] -- Detecting CXX compile features
+[1.293s] -- Detecting CXX compile features - done
+[1.296s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.724s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.883s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.984s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.177s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.202s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.202s] -- Added test 'lint_cmake' to check CMake code style
+[2.203s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.204s] -- Added test 'xmllint' to check XML markup files
+[2.213s] -- Configuring done
+[2.218s] -- Generating done
+[2.222s] -- Build files have been written to: /home/tony/ros2_ws/build/pan_tilt_description
+[2.278s] Invoked command in '/home/tony/ros2_ws/build/pan_tilt_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/pan_tilt_ros/pan_tilt_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/pan_tilt_description
+[2.279s] Invoking command in '/home/tony/ros2_ws/build/pan_tilt_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/pan_tilt_description -- -j8 -l8
+[2.637s] Invoked command in '/home/tony/ros2_ws/build/pan_tilt_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/pan_tilt_description -- -j8 -l8
+[2.911s] Invoking command in '/home/tony/ros2_ws/build/pan_tilt_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/pan_tilt_description
+[3.582s] -- Install configuration: ""
+[3.583s] -- Execute custom install script
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/launch/view_model.launch.py
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/rviz/view_model.rviz
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/kinect_dk.xacro
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/mesh/base.stl
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/mesh/pitch.stl
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/mesh/yaw.stl
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/pan_tilt.urdf.xacro
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/urdf/pan_tilt_st.urdf.xacro
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/ament_index/resource_index/package_run_dependencies/pan_tilt_description
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/ament_index/resource_index/parent_prefix_path/pan_tilt_description
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/ament_prefix_path.sh
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/ament_prefix_path.dsv
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/path.sh
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/environment/path.dsv
+[3.583s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.bash
+[3.584s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.sh
+[3.584s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.zsh
+[3.584s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/local_setup.dsv
+[3.584s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/package.dsv
+[3.610s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/ament_index/resource_index/packages/pan_tilt_description
+[3.635s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/cmake/pan_tilt_descriptionConfig.cmake
+[3.671s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/cmake/pan_tilt_descriptionConfig-version.cmake
+[3.727s] -- Symlinking: /home/tony/ros2_ws/install/pan_tilt_description/share/pan_tilt_description/package.xml
+[3.799s] Invoked command in '/home/tony/ros2_ws/build/pan_tilt_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/pan_tilt_description

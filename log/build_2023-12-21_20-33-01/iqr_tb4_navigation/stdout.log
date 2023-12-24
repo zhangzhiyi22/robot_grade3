@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/config/localization.yaml
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/config/nav2.yaml
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/config/slam.yaml
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/launch/localization.launch.py
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/launch/nav2.launch.py
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/launch/slam.launch.py
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/maps/test.pgm
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/maps/test.yaml
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/ament_index/resource_index/package_run_dependencies/iqr_tb4_navigation
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/ament_index/resource_index/parent_prefix_path/iqr_tb4_navigation
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/path.sh
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/environment/path.dsv
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.bash
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.sh
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.zsh
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/local_setup.dsv
+-- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/package.dsv
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/ament_index/resource_index/packages/iqr_tb4_navigation
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/cmake/iqr_tb4_navigationConfig.cmake
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/cmake/iqr_tb4_navigationConfig-version.cmake
+-- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_navigation/share/iqr_tb4_navigation/package.xml

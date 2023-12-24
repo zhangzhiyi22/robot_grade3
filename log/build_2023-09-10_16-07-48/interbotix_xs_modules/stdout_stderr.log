@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating interbotix_xs_modules.egg-info
+writing interbotix_xs_modules.egg-info/PKG-INFO
+writing dependency_links to interbotix_xs_modules.egg-info/dependency_links.txt
+writing entry points to interbotix_xs_modules.egg-info/entry_points.txt
+writing requirements to interbotix_xs_modules.egg-info/requires.txt
+writing top-level names to interbotix_xs_modules.egg-info/top_level.txt
+writing manifest file 'interbotix_xs_modules.egg-info/SOURCES.txt'
+reading manifest file 'interbotix_xs_modules.egg-info/SOURCES.txt'
+writing manifest file 'interbotix_xs_modules.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/tony/ros2_ws/install/interbotix_xs_modules/lib/python3.10/site-packages/interbotix-xs-modules.egg-link (link to .)
+
+Installed /home/tony/ros2_ws/build/interbotix_xs_modules
+running install_data
+creating /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index
+creating /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index/resource_index
+creating /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index/resource_index/packages
+copying resource/interbotix_xs_modules -> /home/tony/ros2_ws/install/interbotix_xs_modules/share/ament_index/resource_index/packages
+copying package.xml -> /home/tony/ros2_ws/install/interbotix_xs_modules/share/interbotix_xs_modules

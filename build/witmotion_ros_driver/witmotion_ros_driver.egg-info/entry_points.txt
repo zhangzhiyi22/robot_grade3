@@ -1,0 +1,4 @@
+[console_scripts]
+modbus_rtu_driver = witmotion_ros_driver.modbus_rtu_driver:main
+modbus_rtu_driver_2 = witmotion_ros_driver.modbus_rtu_driver_2:main
+

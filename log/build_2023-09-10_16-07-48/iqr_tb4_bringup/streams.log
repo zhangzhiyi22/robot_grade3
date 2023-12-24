@@ -1,0 +1,50 @@
+[0.017s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_bringup
+[0.777s] -- The C compiler identification is GNU 11.4.0
+[0.777s] -- The CXX compiler identification is GNU 11.4.0
+[0.777s] -- Detecting C compiler ABI info
+[0.777s] -- Detecting C compiler ABI info - done
+[0.777s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.777s] -- Detecting C compile features
+[0.777s] -- Detecting C compile features - done
+[0.777s] -- Detecting CXX compiler ABI info
+[0.799s] -- Detecting CXX compiler ABI info - done
+[0.812s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.812s] -- Detecting CXX compile features
+[0.813s] -- Detecting CXX compile features - done
+[0.816s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.108s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.210s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.322s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.564s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.565s] -- Added test 'lint_cmake' to check CMake code style
+[1.566s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.576s] -- Added test 'xmllint' to check XML markup files
+[1.585s] -- Configuring done
+[1.592s] -- Generating done
+[1.595s] -- Build files have been written to: /home/tony/ros2_ws/build/iqr_tb4_bringup
+[1.617s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_bringup
+[1.617s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_bringup -- -j8 -l8
+[2.121s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_bringup -- -j8 -l8
+[2.416s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_bringup
+[8.065s] -- Install configuration: ""
+[8.066s] -- Execute custom install script
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/launch/arm_bringup.launch.py
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/launch/arm_demo.launch.py
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/launch/bringup.launch.py
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/lib/iqr_tb4_bringup/gripper_control.py
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/ament_index/resource_index/package_run_dependencies/iqr_tb4_bringup
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/ament_index/resource_index/parent_prefix_path/iqr_tb4_bringup
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/environment/ament_prefix_path.sh
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/environment/ament_prefix_path.dsv
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/environment/path.sh
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/environment/path.dsv
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/local_setup.bash
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/local_setup.sh
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/local_setup.zsh
+[8.066s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/local_setup.dsv
+[8.067s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/package.dsv
+[8.067s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/ament_index/resource_index/packages/iqr_tb4_bringup
+[8.067s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/cmake/iqr_tb4_bringupConfig.cmake
+[8.067s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/cmake/iqr_tb4_bringupConfig-version.cmake
+[8.067s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_bringup/share/iqr_tb4_bringup/package.xml
+[8.092s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_bringup

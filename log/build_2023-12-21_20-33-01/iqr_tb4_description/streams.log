@@ -1,0 +1,28 @@
+[0.022s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_description -- -j8 -l8
+[0.093s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_description -- -j8 -l8
+[0.141s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_description
+[0.149s] -- Install configuration: ""
+[0.151s] -- Execute custom install script
+[0.151s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/launch/display.launch.py
+[0.151s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/meshes/iqr_tb4_pro.stl
+[0.151s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/create3.urdf.xacro
+[0.151s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/output.urdf
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/realsense_d435.urdf.xacro
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/tb_full.urdf.xacro
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/rviz/rviz_basic_settings.rviz
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/package_run_dependencies/iqr_tb4_description
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/parent_prefix_path/iqr_tb4_description
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/ament_prefix_path.sh
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/ament_prefix_path.dsv
+[0.152s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/path.sh
+[0.153s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/path.dsv
+[0.153s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.bash
+[0.153s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.sh
+[0.153s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.zsh
+[0.153s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.dsv
+[0.153s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/package.dsv
+[0.166s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/packages/iqr_tb4_description
+[0.166s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/cmake/iqr_tb4_descriptionConfig.cmake
+[0.166s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/cmake/iqr_tb4_descriptionConfig-version.cmake
+[0.166s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/package.xml
+[0.174s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_description

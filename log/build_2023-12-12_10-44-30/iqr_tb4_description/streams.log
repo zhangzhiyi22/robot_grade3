@@ -1,0 +1,51 @@
+[0.097s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_description -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_description
+[0.209s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.335s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.343s] -- Found robot_state_publisher: 3.0.2 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[0.373s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.377s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.384s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.419s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.452s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.948s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.949s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.131s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.139s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.725s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.010s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.215s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.215s] -- Added test 'lint_cmake' to check CMake code style
+[3.216s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.217s] -- Added test 'xmllint' to check XML markup files
+[3.220s] -- Configuring done
+[3.240s] -- Generating done
+[3.242s] -- Build files have been written to: /home/tony/ros2_ws/build/iqr_tb4_description
+[3.328s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/tony/ros2_ws/src/iqr_tb4_ros/iqr_tb4_description -DCMAKE_INSTALL_PREFIX=/home/tony/ros2_ws/install/iqr_tb4_description
+[3.328s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_description -- -j8 -l8
+[6.959s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/tony/ros2_ws/build/iqr_tb4_description -- -j8 -l8
+[7.287s] Invoking command in '/home/tony/ros2_ws/build/iqr_tb4_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_description
+[7.350s] -- Install configuration: ""
+[7.358s] -- Execute custom install script
+[7.376s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/launch/display.launch.py
+[7.376s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/meshes/iqr_tb4_pro.stl
+[7.379s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/create3.urdf.xacro
+[7.389s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/output.urdf
+[7.390s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/realsense_d435.urdf.xacro
+[7.390s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/urdf/tb_full.urdf.xacro
+[7.390s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/rviz/rviz_basic_settings.rviz
+[7.390s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/package_run_dependencies/iqr_tb4_description
+[7.394s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/parent_prefix_path/iqr_tb4_description
+[7.395s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/ament_prefix_path.sh
+[7.395s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/ament_prefix_path.dsv
+[7.430s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/path.sh
+[7.430s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/environment/path.dsv
+[7.448s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.bash
+[7.472s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.sh
+[7.472s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.zsh
+[7.472s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/local_setup.dsv
+[7.473s] -- Symlinking: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/package.dsv
+[7.658s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/ament_index/resource_index/packages/iqr_tb4_description
+[7.659s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/cmake/iqr_tb4_descriptionConfig.cmake
+[7.674s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/cmake/iqr_tb4_descriptionConfig-version.cmake
+[7.674s] -- Up-to-date symlink: /home/tony/ros2_ws/install/iqr_tb4_description/share/iqr_tb4_description/package.xml
+[7.691s] Invoked command in '/home/tony/ros2_ws/build/iqr_tb4_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tony/ros2_ws/install/witmotion_ros_driver:/home/tony/ros2_ws/install/interbotix_xs_modules:/home/tony/ros2_ws/install/interbotix_perception_modules:/home/tony/ros2_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/tony/ros2_ws/build/iqr_tb4_description

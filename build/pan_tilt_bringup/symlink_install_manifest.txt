@@ -1,0 +1,16 @@
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup//launch/panTilt_bringup.launch.py
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/ament_index/resource_index/package_run_dependencies/pan_tilt_bringup
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/ament_index/resource_index/parent_prefix_path/pan_tilt_bringup
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/environment/ament_prefix_path.sh
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/environment/ament_prefix_path.dsv
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/environment/path.sh
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/environment/path.dsv
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/local_setup.bash
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/local_setup.sh
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/local_setup.zsh
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/local_setup.dsv
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/package.dsv
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/ament_index/resource_index/packages/pan_tilt_bringup
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/cmake/pan_tilt_bringupConfig.cmake
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/cmake/pan_tilt_bringupConfig-version.cmake
+/home/tony/ros2_ws/install/pan_tilt_bringup/share/pan_tilt_bringup/package.xml

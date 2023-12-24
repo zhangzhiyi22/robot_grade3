@@ -1,0 +1,28 @@
+running develop
+running egg_info
+creating witmotion_ros_driver.egg-info
+writing witmotion_ros_driver.egg-info/PKG-INFO
+writing dependency_links to witmotion_ros_driver.egg-info/dependency_links.txt
+writing entry points to witmotion_ros_driver.egg-info/entry_points.txt
+writing requirements to witmotion_ros_driver.egg-info/requires.txt
+writing top-level names to witmotion_ros_driver.egg-info/top_level.txt
+writing manifest file 'witmotion_ros_driver.egg-info/SOURCES.txt'
+reading manifest file 'witmotion_ros_driver.egg-info/SOURCES.txt'
+writing manifest file 'witmotion_ros_driver.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion-ros-driver.egg-link (link to .)
+Installing modbus_rtu_driver script to /home/tony/ros2_ws/install/witmotion_ros_driver/lib/witmotion_ros_driver
+Installing modbus_rtu_driver_2 script to /home/tony/ros2_ws/install/witmotion_ros_driver/lib/witmotion_ros_driver
+
+Installed /home/tony/ros2_ws/build/witmotion_ros_driver
+running install_data
+creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index
+creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index/resource_index
+creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index/resource_index/packages
+copying resource/witmotion_ros_driver -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/ament_index/resource_index/packages
+copying package.xml -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver
+creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/config
+copying config/params.yaml -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/config
+creating /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/launch
+copying launch/modbus_rtu_driver.launch.py -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/launch
+copying launch/serial_bridge.launch.py -> /home/tony/ros2_ws/install/witmotion_ros_driver/share/witmotion_ros_driver/launch

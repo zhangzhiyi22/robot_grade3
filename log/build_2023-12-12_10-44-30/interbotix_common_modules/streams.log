@@ -1,0 +1,57 @@
+[1.010s] Invoking command in '/home/tony/ros2_ws/build/interbotix_common_modules': PYTHONPATH=/home/tony/ros2_ws/build/interbotix_common_modules/prefix_override:/home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/tony/ros2_ws/build/interbotix_common_modules/build
+[1.464s] running develop
+[1.852s] Removing /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix-common-modules.egg-link (link to .)
+[1.918s] Invoked command in '/home/tony/ros2_ws/build/interbotix_common_modules' returned '0': PYTHONPATH=/home/tony/ros2_ws/build/interbotix_common_modules/prefix_override:/home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/tony/ros2_ws/build/interbotix_common_modules/build
+[1.918s] Invoking command in '/home/tony/ros2_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_common_modules': PYTHONPATH=/home/tony/ros2_ws/build/interbotix_common_modules/prefix_override:/home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/interbotix_common_modules build --build-base /home/tony/ros2_ws/build/interbotix_common_modules/build install --record /home/tony/ros2_ws/build/interbotix_common_modules/install.log --single-version-externally-managed
+[2.318s] running egg_info
+[2.320s] writing ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/PKG-INFO
+[2.320s] writing dependency_links to ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/dependency_links.txt
+[2.321s] writing entry points to ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/entry_points.txt
+[2.321s] writing requirements to ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/requires.txt
+[2.322s] writing top-level names to ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/top_level.txt
+[2.325s] reading manifest file '../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/SOURCES.txt'
+[2.327s] writing manifest file '../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/SOURCES.txt'
+[2.327s] running build
+[2.327s] running build_py
+[2.327s] creating /home/tony/ros2_ws/build/interbotix_common_modules/build
+[2.327s] creating /home/tony/ros2_ws/build/interbotix_common_modules/build/lib
+[2.327s] creating /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules
+[2.328s] copying interbotix_common_modules/__init__.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules
+[2.328s] creating /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch
+[2.329s] copying interbotix_common_modules/launch/__init__.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch
+[2.329s] copying interbotix_common_modules/launch/and_condition.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch
+[2.330s] copying interbotix_common_modules/launch/or_condition.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch
+[2.331s] creating /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/angle_manipulation
+[2.331s] copying interbotix_common_modules/angle_manipulation/angle_manipulation.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/angle_manipulation
+[2.334s] copying interbotix_common_modules/angle_manipulation/__init__.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/angle_manipulation
+[2.334s] creating /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/py_common
+[2.334s] copying interbotix_common_modules/py_common/__init__.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/py_common
+[2.337s] copying interbotix_common_modules/py_common/params.py -> /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/py_common
+[2.337s] running install
+[2.338s] running install_lib
+[2.338s] creating /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules
+[2.339s] creating /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[2.339s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch/__init__.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[2.340s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch/and_condition.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[2.340s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch/or_condition.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[2.341s] creating /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation
+[2.341s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/angle_manipulation/angle_manipulation.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation
+[2.341s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/angle_manipulation/__init__.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation
+[2.342s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/__init__.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules
+[2.343s] creating /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common
+[2.343s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/py_common/__init__.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common
+[2.344s] copying /home/tony/ros2_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/py_common/params.py -> /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common
+[2.345s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch/__init__.py to __init__.cpython-310.pyc
+[2.346s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch/and_condition.py to and_condition.cpython-310.pyc
+[2.347s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch/or_condition.py to or_condition.cpython-310.pyc
+[2.348s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation/angle_manipulation.py to angle_manipulation.cpython-310.pyc
+[2.350s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation/__init__.py to __init__.cpython-310.pyc
+[2.351s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/__init__.py to __init__.cpython-310.pyc
+[2.352s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common/__init__.py to __init__.cpython-310.pyc
+[2.353s] byte-compiling /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common/params.py to params.cpython-310.pyc
+[2.354s] running install_data
+[2.355s] running install_egg_info
+[2.357s] Copying ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info to /home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules-0.0.0-py3.10.egg-info
+[2.360s] running install_scripts
+[2.418s] writing list of installed files to '/home/tony/ros2_ws/build/interbotix_common_modules/install.log'
+[2.471s] Invoked command in '/home/tony/ros2_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_common_modules' returned '0': PYTHONPATH=/home/tony/ros2_ws/build/interbotix_common_modules/prefix_override:/home/tony/ros2_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/interbotix_common_modules build --build-base /home/tony/ros2_ws/build/interbotix_common_modules/build install --record /home/tony/ros2_ws/build/interbotix_common_modules/install.log --single-version-externally-managed

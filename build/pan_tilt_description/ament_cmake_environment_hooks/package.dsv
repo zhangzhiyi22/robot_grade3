@@ -1,0 +1,4 @@
+source;share/pan_tilt_description/local_setup.bash
+source;share/pan_tilt_description/local_setup.dsv
+source;share/pan_tilt_description/local_setup.sh
+source;share/pan_tilt_description/local_setup.zsh

@@ -1,0 +1,1 @@
+/home/tony/ros2_ws/build/interbotix_perception_msgs/rosidl_generator_py/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_c.c

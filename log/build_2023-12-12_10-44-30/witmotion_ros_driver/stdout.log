@@ -1,0 +1,34 @@
+running develop
+Removing /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion-ros-driver.egg-link (link to .)
+running egg_info
+writing ../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info/PKG-INFO
+writing dependency_links to ../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info/dependency_links.txt
+writing entry points to ../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info/entry_points.txt
+writing requirements to ../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info/requires.txt
+writing top-level names to ../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info/top_level.txt
+reading manifest file '../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info/SOURCES.txt'
+writing manifest file '../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tony/ros2_ws/build/witmotion_ros_driver/build
+creating /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib
+creating /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib/witmotion_ros_driver
+copying witmotion_ros_driver/modbus_rtu_driver.py -> /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib/witmotion_ros_driver
+copying witmotion_ros_driver/modbus_rtu_driver_2.py -> /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib/witmotion_ros_driver
+copying witmotion_ros_driver/__init__.py -> /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib/witmotion_ros_driver
+running install
+running install_lib
+creating /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver
+copying /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib/witmotion_ros_driver/modbus_rtu_driver.py -> /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver
+copying /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib/witmotion_ros_driver/modbus_rtu_driver_2.py -> /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver
+copying /home/tony/ros2_ws/build/witmotion_ros_driver/build/lib/witmotion_ros_driver/__init__.py -> /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver
+byte-compiling /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver/modbus_rtu_driver.py to modbus_rtu_driver.cpython-310.pyc
+byte-compiling /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver/modbus_rtu_driver_2.py to modbus_rtu_driver_2.cpython-310.pyc
+byte-compiling /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver/__init__.py to __init__.cpython-310.pyc
+running install_data
+running install_egg_info
+Copying ../../build/witmotion_ros_driver/witmotion_ros_driver.egg-info to /home/tony/ros2_ws/install/witmotion_ros_driver/lib/python3.10/site-packages/witmotion_ros_driver-1.1.0-py3.10.egg-info
+running install_scripts
+Installing modbus_rtu_driver script to /home/tony/ros2_ws/install/witmotion_ros_driver/lib/witmotion_ros_driver
+Installing modbus_rtu_driver_2 script to /home/tony/ros2_ws/install/witmotion_ros_driver/lib/witmotion_ros_driver
+writing list of installed files to '/home/tony/ros2_ws/build/witmotion_ros_driver/install.log'

@@ -1,0 +1,55 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from pan_tilt_msgs/msg/PanTiltStatus.msg
+// generated code does not contain a copyright notice
+
+#include "std_msgs/msg/Header.idl"
+
+module pan_tilt_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "pan tilt ststus msg")
+    struct PanTiltStatus {
+      std_msgs::msg::Header header;
+
+      uint8 id;
+
+      string serial_num;
+
+      string hw_version;
+
+      string bd_version;
+
+      string sw_version;
+
+      uint8 set_zero;
+
+      int16 speed;
+
+      float yaw_goal;
+
+      float pitch_goal;
+
+      uint16 reserved;
+
+      uint16 driver_ec;
+
+      uint16 encoder_ec;
+
+      float yaw_now;
+
+      float pitch_now;
+
+      float yaw_temp;
+
+      float pitch_temp;
+
+      int16 yaw_raw;
+
+      int16 pitch_raw;
+
+      uint16 loop_ec;
+
+      uint16 loop_time;
+    };
+  };
+};
