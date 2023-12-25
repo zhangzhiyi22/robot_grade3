@@ -1,24 +1,54 @@
-这个命令是打开外设
+# 项目指南
+
+本文档提供了项目中使用的各种命令的详细说明。
+
+## 启动设备
+
+要启动外设，请运行以下命令：
+
+
 ros2 launch iqr_tb4_bringup bringup.launch.py
 
-这个命令是打开相机的
+
+## 相机操作
+
+### 打开相机
+
+运行以下命令来启动相机：
+
+
 ros2 launch ros2_aruco aruco_recognition.launch.py 
 
-这个命令是让相机下降的
+### 调整相机角度
+
+要使相机下降，请使用以下命令：
+
+
 ros2 topic pub /pan_tilt_cmd_deg pan_tilt_msgs/msg/PanTiltCmdDeg "yaw: 0.0
 pitch: 10.0
 speed: 10"
 
-这个命令是跑导航的
 
-# ros2 run nav2_map_server map_server --ros-args -p yaml_filename:=map.yaml
+## 导航
+
+### 运行导航功能
+
+使用以下命令来运行导航功能：
+
+
+
+
 
  ros2 launch iqr_tb4_navigation localization.launch.py map:=map.yaml
 
 ros2 launch iqr_tb4_navigation nav2.launch.py
 
 
-#这个是搞可视化的
+## 可视化操作
+
+为了执行nomashine可视化操作，请按顺序运行以下命令：
+
+
 sudo systemctl stop gdm3
 
 sudo /usr/NX/bin/nxserver --restart
